@@ -48,7 +48,7 @@ If you have any feedback, please reach out to me at hamzahshabbir7@gmail.com
 ## Screenshots
 ![result](pictures/april.svg)
 ![Logo1](pictures/best_features.svg)
-![Logo1](pictures/time series.png)
+
 
 
   
