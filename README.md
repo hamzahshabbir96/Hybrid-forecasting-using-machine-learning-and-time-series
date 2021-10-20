@@ -26,9 +26,7 @@ This program is for plotting results and calculating different errors for perfor
 
 - [@hamzahshabbir](https://www.linkedin.com/in/hamzah-shabbir-108765a5/)
 
-## Screenshots
-![Logo](pictures/april.svg)
-![Logo](pictures/hybrid.png)
+
 ## Acknowledgements
 
  - [Solcast API](https://solcast.com/)
@@ -45,6 +43,10 @@ If you have any feedback, please reach out to me at hamzahshabbir7@gmail.com
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-shabbir-108765a5/)
 
-  
+  ## Screenshots
+![Logo](pictures/best features.svg)
+![Logo](pictures/time series.png)
+![Logo](pictures/april.svg)
+![Logo](pictures/oct.png)
 
   
