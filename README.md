@@ -45,7 +45,7 @@ If you have any feedback, please reach out to me at hamzahshabbir7@gmail.com
 
   ## Screenshots
 ![Logo](pictures/best features.svg)
-
+#### Time series
 ![Logo](pictures/time series.png)
 ![Logo](pictures/april.svg)
 ![Logo](pictures/oct.png)
