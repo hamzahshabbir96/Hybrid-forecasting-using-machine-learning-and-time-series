@@ -43,7 +43,7 @@ If you have any feedback, please reach out to me at hamzahshabbir7@gmail.com
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-shabbir-108765a5/)
 
-  ## Screenshots
+## Screenshots
 ![Logo](pictures/best features.svg)
 ![Time series](pictures/time series.png)
 ![result](pictures/april.svg)
