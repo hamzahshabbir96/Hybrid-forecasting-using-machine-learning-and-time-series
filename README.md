@@ -44,10 +44,11 @@ If you have any feedback, please reach out to me at hamzahshabbir7@gmail.com
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-shabbir-108765a5/)
 
 
-![Logo](pictures/best features.svg)
+![Logo](pictures/pictures/best features.svg)
 
 ## Screenshots
 ![result](pictures/april.svg)
+
 
 
   
