@@ -1,6 +1,6 @@
 ![Logo](pictures/hybrid.png)
 
-# Hybrid-forecasting-using-machine-learning-and-time-series
+# Hybrid forecasting using machine learning and time-series
 ## Project description
 This project is a model to combine the Machine learning model with the Time series model for hybrid forecasting of Global Horizontal Irradiance (GHI). This hybrid model exploits the performance of the Time series model and Machine learning model, which perform differently on a different set of weather conditions, to give a more accurate result. For this research, Random Forest has been used as a machine learning model, and for the Time series model, Seasonal Autoregressive Integrated Moving Average with exogenous regressors (SARIMAX) model has been used. The machine learning model considers weather conditions such as humidity, cloud cover temp, etc., to predict GHI, and the time series model only depends on past values of data which makes it independent of weather conditions.
 
